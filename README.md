@@ -10,7 +10,7 @@
 
 <!-- صورة بروفايل مع تأثيرات -->
 <p align="center">
-  <img src="https://files.catbox.moe/5mxmik." alt="MINUX" width="300" style="border-radius: 20px; border: 3px solid #00FF00; box-shadow: 0 0 30px #00FF00; filter: grayscale(50%);" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="MINUX" width="300" style="border-radius: 20px; border: 3px solid #00FF00; box-shadow: 0 0 30px #00FF00; filter: grayscale(50%);" />
 </p>
 
 ---
